@@ -1,0 +1,10 @@
+.idea
+*.iml
+
+.DS_Store
+
+*.keystore
+
+.gradle
+out
+bin
